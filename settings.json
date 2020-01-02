@@ -1,0 +1,42 @@
+{
+    "workbench.activityBar.visible": false,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "none",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true,
+        "**/__pycache__": true,
+        "**/*.pyc": true
+    },
+    "php.validate.executablePath": "C:/wamp64/bin/php/php7.3.5/php.exe",
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "emmet.triggerExpansionOnTab": true, // enable tab to expanse emmet tags
+    "blade.format.enable": true,
+    "workbench.colorTheme": "alexander's theme",
+    "editor.tokenColorCustomizations": {
+        "[Activate UMBRA protocol]": {
+            "comments": "#00ff00EE",
+            "punctuation.definition.comment": "#00ff00CC",
+            "comment.block.documentation ": "#00ff00CC"
+        }
+    },
+    "clang-format.language.javascript.enable": false,
+    "beautify.ignore": [
+        "**/*.js",
+        "**/*.jsx"
+    ],
+    "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\6\\pwsh.exe",
+    "terminal.integrated.fontFamily": "MesloLGM NF Regular",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.shellArgs.windows": ["-nologo"],
+    "editor.tabSize": 4,
+    "[javascript]": {
+        "editor.tabSize": 2
+      },
+      "[json]": {
+        "editor.tabSize": 2
+      }
+}
